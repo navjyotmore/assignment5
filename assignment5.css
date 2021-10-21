@@ -179,6 +179,8 @@ head {
     font-size: 20px;
     font-weight: bold;
     text-align: center;
+    line-height: 1.4;
+
 }
 
 #intro p {
